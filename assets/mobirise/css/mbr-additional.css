@@ -8,8 +8,6 @@
 
 
 
-
-
 body,
 input,
 textarea,
@@ -478,17 +476,6 @@ h6,
 #menu-1 .link[aria-expanded="true"],
 #menu-1 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#header5-0 .mbr-section-title {
-  color: #ffffff;
-  text-align: left;
-  font-family: 'Noto Sans', sans-serif;
-  font-size: 60px;
-}
-#header5-0 .mbr-section-lead {
-  color: #ffffff;
-  text-align: left;
-  font-family: 'Noto Sans', sans-serif;
 }
 #form1-2 .form-control-label {
   color: #232323;
